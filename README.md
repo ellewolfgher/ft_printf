@@ -11,7 +11,7 @@
 
 ---
 <div align=center>
-<img src=https://github.com/ellewolfgher/ft_printf/blob/main/ft_printf.png alt="42 Project Ft_Printf Badge"/>
+<img src=https://github.com/ellewolfgher/ft_printf/blob/master/ft_printf.png alt="42 Project Ft_Printf Badge"/>
 </div>
 
 ---
